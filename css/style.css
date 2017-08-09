@@ -23,7 +23,7 @@
 }
 
 .picture1 {
-  background: url(https://static.pexels.com/photos/30134/pexels-photo.jpg);
+  background: url(https://www.pexels.com/photo/gray-car-on-long-winding-road-104336/);
   background-size: cover;
   height: 500px;
   transition: all 400ms cubic-bezier(0.25, 0.1, 0.25, 1) 0s;
